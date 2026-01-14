@@ -1,11 +1,13 @@
-# My First Coding Step 🚀
+# My Web Development Journey 🚀
 
-Hi! I am Akib. This is my first code ever. I started by learning the 'Why'—how hardware works, how binary turns into text, and how monitors show colors.
+Hi, I'm Akib! I'm learning how the world works through code. 
 
-### My Philosophy 💡
-Don't just watch long YouTube videos. Learn how the hardware 'thinks' and you will start making your own logic. 
+## Today's Progress: Profile Card Task
+In this session, I built a personal profile card and learned:
+- **HTML Structure:** Correct use of `<head>` and `<body>`.
+- **Meta Tags:** Why `viewport` is crucial for mobile-friendly sites.
+- **CSS Box Model:** How `padding` and `margin` create space.
+- **Visuals:** Using `rgb()` colors and `box-shadow` for depth.
 
-### Specs & Goals 🎯
-* **PC:** i5-12400F (My learning machine)
-* **Inspiration:** Nikola Tesla & Elon Musk
-* **Target:** Financial independence by the end of 2026.
+### Key Logic Understood:
+Attributes (like `name` and `content`) are fixed instructions for the browser, while the values inside them help us customize the behavior.
