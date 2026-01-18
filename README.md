@@ -1,5 +1,21 @@
-🚀 Web Development & Logic Engineering Journey
-Welcome to my professional learning repository. My name is Akib, and I am a passionate developer focused on understanding the "Deep Logic" of the web. I don't just write code; I engineer solutions by understanding how the world (and AI) works.
+# My Web Development Journey 🚀
 
-🧠 My Learning Philosophy: "Deep over Shallow"
-I believe in mastering the fundamentals before moving to advanced frameworks. My goal is to build a rock-solid foundation in Web Technologies before transitioning into React, AI, and Machine Learning.
+I am currently building my foundation in Web Development before transitioning into AI/ML. This repository serves as a tracker for my daily progress, concepts I've mastered, and the "deep dives" I perform every day.
+
+## 🛠 Currently Mastering
+- **HTML5:** Semantic structures and accessibility.
+- **CSS3:** Box model, Flexbox, and the art of responsive design.
+- **UI/UX:** Understanding visual hierarchy and user-centric layouts.
+
+## 🧠 Why I'm doing this
+I believe in understanding how the world works, which means understanding how the web works first. I don't just want to code; I want to understand the "why" behind the "how."
+
+## 📅 Roadmap
+- [x] Setting up my Environment (Git/GitHub)
+- [/] Mastering CSS Layouts (In Progress)
+- [ ] JavaScript Logic & DOM
+- [ ] UI/UX Case Studies
+- [ ] Transition to AI/ML (After mastering the Web)
+
+---
+*“Understanding things deeply and thoroughly.”*
