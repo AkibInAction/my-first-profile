@@ -1,1 +1,1 @@
-so tody ia ma back with  a new html code  names main.html chek it out
+hi my name is akib and tody i omly focus now to learn html no css no js only html cuz u if u take all off thig to leran congrats u got headache and u frestedt in coding and u leave this same thing happen with me so learn first the base and then next ok stay learning
