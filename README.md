@@ -1,4 +1,3 @@
-so todoy i experienced some feelings that i want to sahre i feel like when i was learning i just realised I don't know any thing and i experience this feeling to i feel like tome is veryy limited compitition is vey haig but if i focus learn mew thing then i think i crack this compitition and i am learning base hrml and css i am not learning js first i leearn html css like pro developer then i jump to jc react node backend so well i just wnt to say u 
-pls just start i know u guys feel this wehre how  can i start  u need just to start if u start  and  8f u start working 2-4 hour a weeks in yourself then u become top 1 % i know compitition is very high bu i dont learn outer area i just learn depp knowlegd i start giving  one small topic a hour to master that 1 thing and become a bater then all compitition rats so if anybody see my this read.me pls ignore my english cuz i focus on a quality in work not in leauage but i improving my combination skill using books so ----stay learning ----
-and ---applying that u learn ---
-if u fail then one thng is u need to do that is ---just trying --- ok  see u Tommorow :)
+so hi guys hoe are u so today so lest come in point 
+so today i learn i css and in html --thead-tbody--inline-block--tr:nth-child method--class-text decoration and guys iwant to tel u a one thing keep going :)
+
