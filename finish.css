@@ -1,0 +1,20 @@
+body{background-color: black;}
+table{background-color: rgb(209, 172, 172);}
+tbody{background-color:rgb(213, 162, 162);}
+tr:nth-child(1) td:nth-child(1){background-color: rgb(220, 170, 170);}
+thead tr:nth-child(1) td:nth-child(1){background-color:red;}
+.git-button{display:inline-block;
+text-decoration: none;
+background-color: saddlebrown;
+color: white;
+padding: 15px 20px;
+border-radius: 30px;
+font-size: medium;
+margin:10px;
+box-shadow: 2px 2px 2px 2px black;
+
+   }
+    
+
+
+
