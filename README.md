@@ -1,3 +1,1 @@
-so hi guys hoe are u so today so lest come in point 
-so today i learn i css and in html --thead-tbody--inline-block--tr:nth-child method--class-text decoration and guys iwant to tel u a one thing keep going :)
-
+hi gis sorry for taht i dont upload code todey deu to my some prwsnol reason don't worry tomorrow 8 am making same youtube html css combination 
