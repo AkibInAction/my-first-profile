@@ -1,1 +1,1 @@
-hi gis sorry for taht i dont upload code todey deu to my some prwsnol reason don't worry tomorrow 8 am making same youtube html css combination 
+ho gus i am sorry my self cuz tody 8 can't upload code cuz my some presn9l work but tommarow i try to upload 
