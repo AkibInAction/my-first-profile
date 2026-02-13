@@ -1,1 +1,1 @@
-ho gus i am sorry my self cuz tody 8 can't upload code cuz my some presn9l work but tommarow i try to upload 
+hi  i dont know whats happening with me i am very lazyyy i am fucing lazy huh 
