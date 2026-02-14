@@ -1,1 +1,1 @@
-hi  i dont know whats happening with me i am very lazyyy i am fucing lazy huh 
+so i am trying to learning today i waste time litrely i know i a wasting timme huh i am still trying to become desiplane 
