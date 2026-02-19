@@ -1,1 +1,2 @@
-so i am trying to learning today i waste time litrely i know i a wasting timme huh i am still trying to become desiplane 
+so hi i am back and today i try to make a youtube clon but taht project is under wokijng but i comit taht project
+
