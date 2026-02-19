@@ -1,0 +1,25 @@
+body{margin:0;
+padding:0; 
+display:flex;
+justify-content: center;
+align-items: center;}
+
+
+
+.container{width:100vw;
+height:100vh;
+justify-content: center;
+align-items: center;
+display: flex;}
+.yt{background-color: rgb(53, 53, 53);}
+h1{color:red;
+display:flex;
+
+}
+
+
+
+
+
+
+
